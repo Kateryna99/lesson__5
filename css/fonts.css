@@ -1,0 +1,53 @@
+
+/* SANSITA FONT */
+@import url('https://fonts.googleapis.com/css2?family=Sansita:ital,wght@0,400;0,700;1,400;1,900&display=swap');
+
+/* LEMON MILK FONT */
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("../fonts/LEMONMILK-Light.woff2") format("woff2"),
+    url("../fonts/LEMONMILK-Light.woff") format("woff");
+    font-display: swap;
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("../fonts/LEMONMILK-LightItalic.woff2") format("woff2"),
+    url("../fonts/LEMONMILK-LightItalic.woff") format("woff");
+    font-display: swap;
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("../fonts/LEMONMILK-Regular.woff2") format("woff2"),
+    url("../fonts/LEMONMILK-Regular.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("../fonts/LEMONMILK-RegularItalic.woff2") format("woff2"),
+    url("../fonts/LEMONMILK-RegularItalic.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("../fonts/LEMONMILK-Bold.woff2") format("woff2"),
+    url("../fonts/LEMONMILK-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("../fonts/LEMONMILK-BoldItalic.woff2") format("woff2"),
+    url("../fonts/LEMONMILK-BoldItalic.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: italic;
+}
